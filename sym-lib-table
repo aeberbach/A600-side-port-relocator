@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Dual-DB9)(type Legacy)(uri ${KIPRJMOD}/Dual-DB9.lib)(options "")(descr ""))
+)
