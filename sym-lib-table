@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Dual-DB9)(type Legacy)(uri ${KIPRJMOD}/Dual-DB9.lib)(options "")(descr ""))
+  (lib (name A600-DB9-Relocator-rescue)(type Legacy)(uri ${KIPRJMOD}/A600-DB9-Relocator-rescue.lib)(options "")(descr ""))
 )
