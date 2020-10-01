@@ -7,3 +7,7 @@ It's just a trio of connectors with a PCB between. The A600 has its ports for mo
 The idea is that this device plugs into the side of the Amiga 600 and the two ports are relocated using a single stacked connector at the back of the machine. The mouse port is on the bottom and hopefully the mouse cord gets in the way less there. The joystick port is on top and is probably easier to reach, also joysticks with large plugs can be used. Either port can have wide (i.e. DIY) connectors plugged in.
 
 A single-sided PCB is used to keep cost as low as possible and because it costs no extra to use thick fibreglass, it is thick to make it sturdy. The 3D printed cover is optional but recommended, it covers the electrical connections of the ports underneath the PCB just in case you decide to put your Amiga on a conductive surface. It looks nicer too.
+
+Parts:
+Stacked DE-9 male pair: https://www.digikey.com.au/product-detail/en/L17H2110130/L17H2110130-ND/
+Single DE-9 female: https://www.digikey.com.au/product-detail/en/ID09S33E4GX00LF/609-5771-ND
