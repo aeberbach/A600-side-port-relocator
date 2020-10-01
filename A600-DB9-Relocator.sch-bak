@@ -58,7 +58,7 @@ U 1 1 5F743026
 P 3100 3550
 F 0 "J4" H 3150 4167 50  0000 C CNN
 F 1 "Conn_02x09_Odd_Even" H 3150 4076 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_2x09_P2.00mm_Vertical" H 3100 3550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Vertical" H 3100 3550 50  0001 C CNN
 F 3 "~" H 3100 3550 50  0001 C CNN
 	1    3100 3550
 	1    0    0    -1  
@@ -141,7 +141,7 @@ U 1 1 5F74A4B2
 P 3100 4850
 F 0 "J5" H 3150 5467 50  0000 C CNN
 F 1 "Conn_02x09_Odd_Even" H 3150 5376 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_2x09_P2.00mm_Vertical" H 3100 4850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Vertical" H 3100 4850 50  0001 C CNN
 F 3 "~" H 3100 4850 50  0001 C CNN
 	1    3100 4850
 	1    0    0    -1  
